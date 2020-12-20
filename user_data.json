@@ -1,0 +1,11 @@
+{
+    "server_info": {
+      "hostname": "192.168.0.128",
+      "communication_port": 6767,
+      "verification_port": 10245
+    },
+    "client_info": {
+        "friendly_name": "charlie",
+        "key": "qHD4ow2WQgIBmTj3CKC1hga3GLixZ1FO"
+    }
+}
